@@ -1,0 +1,49 @@
+body {
+    background-image: url(../img/money.png);
+    background-size: 100%;
+}
+
+header {
+    margin: 30px 0;
+}
+
+.container {
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.container-principal {
+    background-color: rgb(255, 255, 255);
+    background-size: 100%;
+    padding: 30px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.presupuesto p {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.presupuesto p span {
+    font-weight: normal;
+}
+
+#gastos {
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 27px;
+    margin-bottom: 30px;
+}
